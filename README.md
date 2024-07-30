@@ -22,4 +22,9 @@ Dataset link: https://archive.ics.uci.edu/dataset/360/air+quality
 Download AirQualityUCI.zip file 
 
 
+Forcasting with FB Prophet Algorithm
+
+
+
+FB Prophet Algorithm link: https://facebook.github.io/prophet/docs/quick_start.html
 
